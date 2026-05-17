@@ -162,6 +162,5 @@ tamamen proje geliştiricisi tarafından gerçekleştirilmiştir.
 Oğuzhan Akagündüz  
 Bursa Teknik Üniversitesi 
 Mekatronik Mühendisliği
-Mekatronik Mühendisliği
 
 ---
