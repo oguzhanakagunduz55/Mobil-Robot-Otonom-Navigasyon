@@ -1,4 +1,4 @@
-# Sensör Füzyonu ve Lokalizasyon Kullanarak LiDAR Tabanlı Otonom Ev Navigasyonu
+# Sensör Füzyonu ve Lokalizasyon Kullanarak LiDAR Tabanlı Otonom Ev Robot Süpürgesi
 
 Bu proje, Bursa Teknik Üniversitesi Mekatronik Mühendisliği bölümü **Mobil Robotlar** dersi kapsamında geliştirilmiştir.
 
